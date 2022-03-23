@@ -16,6 +16,10 @@ body {
   color: var(--text-color);
 }
 
+pre {
+  color: var(--text-color);
+}
+
 .header {
   position: absolute;
   width: 100%;

@@ -15,6 +15,9 @@
                 <h1 class="intro__title col-12 col-md-6"><?php echo "Some dynamical text"?></h1>
             </div>
         </section>
+        <section class="">
+
+        </section>
     </main>
     <?php include 'footer.php'?>
 </body>
